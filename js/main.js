@@ -15,7 +15,7 @@
         animation: 'fade'
     });
 
-    $('#gifs').
+    
 
     /* testimonials Slider Active
     =============================*/
@@ -101,6 +101,8 @@
             }
         }
     });
+
+    
 
     /*---------------------------
     MICHIMP INTEGRATION
